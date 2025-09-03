@@ -1,7 +1,3 @@
-Here’s a polished **README.md** draft for your Task Manager app, based on the HTML, CSS, and JavaScript you uploaded:
-
----
-
 # Task Manager
 
 A simple, lightweight **Task Manager web application** built with HTML, CSS, and JavaScript. This app allows users to add, display, and delete tasks using **localStorage**, ensuring that tasks persist even after refreshing the browser.
