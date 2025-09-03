@@ -48,5 +48,3 @@ A simple, lightweight **Task Manager web application** built with HTML, CSS, and
 * The app dynamically renders all stored tasks inside the `#output` container.
 * Each task has a delete button (`X`), which removes it from both the UI and `localStorage`.
 * Styling is handled via `styles.css`, giving the UI a clean, modern look with alternating backgrounds for task rows.
-
----
