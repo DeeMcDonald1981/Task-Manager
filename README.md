@@ -50,27 +50,3 @@ A simple, lightweight **Task Manager web application** built with HTML, CSS, and
 * Styling is handled via `styles.css`, giving the UI a clean, modern look with alternating backgrounds for task rows.
 
 ---
-
-## 🎨 Preview
-
-![App Screenshot](screenshot.png)
-*(Optional: Add a screenshot of the app UI here)*
-
----
-
-## 💡 Future Improvements
-
-* Add task completion toggle (mark tasks as done/undone).
-* Edit existing tasks instead of just deleting.
-* Categorize tasks or set due dates.
-* Improve accessibility and mobile responsiveness.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-Do you want me to make this **developer-focused** (step-by-step explanation of code) or **user-focused** (instructions and usage only)?
